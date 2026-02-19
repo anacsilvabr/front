@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex flex-col Smin-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+    <div className="flex flex-col min-h-screen items-center justify-center text-center bg-zinc-50 font-sans dark:bg-black">
       
       <h4><strong>Quem será?</strong> </h4>
       <h5>Jamais te abandonei</h5>
